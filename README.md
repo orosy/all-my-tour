@@ -1,6 +1,7 @@
 # 올마이투어
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1425" alt="스크린샷 2021-10-27 오후 11 16 18" src="https://user-images.githubusercontent.com/79790476/139083858-a84281c6-b141-443c-87eb-aa8214605271.png">
+
 
 ## Available Scripts
 
