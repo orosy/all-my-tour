@@ -3,6 +3,7 @@
 <img width="1425" alt="스크린샷 2021-10-27 오후 11 16 18" src="https://user-images.githubusercontent.com/79790476/139083858-a84281c6-b141-443c-87eb-aa8214605271.png">
 
 ### <a href="https://www.youtube.com/watch?v=VA8rSx0cG7Q&ab_channel=%EA%B9%80%EC%98%81%ED%98%B8">올마이투어 시연영상 보러가기</a>
+### <a href="https://www.notion.so/AllMyTour-Makers-292dae686216491baff8ed17ef9039a3#8a500cda90de4071bf3b6773f0743a62">올마이투어 디자인 시안</a>
 ## 올마이투어 팀원
 
 - F.E<br>
@@ -71,5 +72,4 @@
 
 <hr />
 <br>
-올마이투어 프로젝트는 회사 측에서 제공해준 아래의 디자인 시안 PDF 파일을 통해서 구현되었습니다. 해당 파일 이외에 제공된 내용은 없으며, 모든 기능은 백지 상태에서 구현되었음을 밝힙니다.
-https://www.notion.so/AllMyTour-Makers-292dae686216491baff8ed17ef9039a3#8a500cda90de4071bf3b6773f0743a62
+올마이투어 프로젝트는 회사 측에서 제공해준 디자인 시안 PDF 파일을 통해서 구현되었습니다. 해당 파일 이외에 제공된 내용은 없으며, 모든 기능은 백지 상태에서 구현되었음을 밝힙니다.
