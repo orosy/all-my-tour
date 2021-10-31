@@ -55,10 +55,15 @@
 ✅ `!!`연산자를 통해 token 여부에 따른 로그인, 마이페이지 버튼 전환과 `useHistory`를 통한 페이지 이동<br>
 
 3. 메이커스 지원하기<br>
-✔️<br>
+✔️ `Custom Hook` useApplyInput을 활용하여 Input값 수정, 넘겨주기 구현<br>
+✔️ `Context API`를 활용해 hover창, 선택한 투어 서비스 지역 리스트의 상태값을 글로벌하게 관리<br>
+✔️ `FormData`와 `Axios` 라이브러리를 통해 이미지 백엔드 전송 구현<br>
+✔️ `FileReader`를 통해 이미지 미리보기, 크기 표시, 크기 체크, 이름 표시 구현<br>
+✔️ `useRef`를 이용해 기존의 input file 태그를 커스텀한 파일 업로드 버튼에 연결<br>
 
 4. 메이커스 수정하기<br>
-✔️<br>
+✔️ 기존 지원하기 페이지에서 `useEffect`, `useLocation`을 활용하여 마이 페이지에서 histoy.push로 전달 받은 mode 값이 modify이면 백엔드 통신을 통해 기존에 지원했던 정보를 렌더 및 조건부 렌더링을 통해 수정하기 버튼으로 전환<br>
+✔️ 백엔드에서 `base64`로 넘겨준 이미지를 File 생성자을 활용해 다시 이미지 파일로 전환<br>
 
 5. 마이 페이지<br>
 ✅ data.js를 통한 `map` 활용한 마이페이지 레이아웃 구현<br>
